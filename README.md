@@ -18,7 +18,7 @@ O que ele nao conseguir baixar, pois tem musica que é restringido para somente 
 
 Quando executar o codigo irá pedir "Cole o link da playlist do Spotify: "
 
-Voce cola o link da playlist e prnto, irá baixar cada muúsica
+Voce cola o link da playlist e pronto, irá baixar cada música
 
 
 Para obter o link é so clicar em compartilhar que aparece para copiar o link da playlist.
